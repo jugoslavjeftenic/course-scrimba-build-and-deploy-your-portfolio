@@ -3,11 +3,8 @@
 by Kevin Powell
 https://scrimba.com/learn/portfolio
 
------------------------------------------------------------------------------
-# title(){
+The site is built without using any web frameworks, so the only prerequisites for this course are basic HTML and CSS skills.
 
-		return this.options.title || this.options.name;
-	}
 
 ## Supporting Scrimba
 
