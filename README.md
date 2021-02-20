@@ -3,7 +3,7 @@
 by Kevin Powell
 https://scrimba.com/learn/portfolio
 
-The site is built without using any web frameworks, so the only prerequisites for this course are basic HTML and CSS skills.
+The site is built without using any web frameworks, so the only prerequisites for this course are basic HTML and CSS.
 
 
 ## Supporting Scrimba
